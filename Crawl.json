@@ -1,0 +1,650 @@
+[
+    {
+        "code": "ok",
+        "result": {
+            "id": "605a25686d8d1d156380f928",
+            "location": {
+                "lng": 106.68619413855492,
+                "lat": 10.755154157844984
+            },
+            "address": "4/45 Nguyễn Văn Cừ, Phường Cầu Kho, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+            "name": "4/45 Nguyễn Văn Cừ",
+            "objectId": null,
+            "description": null,
+            "types": [
+                "point",
+                "other"
+            ],
+            "tags": null,
+            "addressComponents": [
+                {
+                    "types": [
+                        "housenumber"
+                    ],
+                    "name": "4/45"
+                },
+                {
+                    "types": [
+                        "street"
+                    ],
+                    "name": "Nguyễn Văn Cừ"
+                },
+                {
+                    "types": [
+                        "admin_level_4"
+                    ],
+                    "name": "Phường Cầu Kho"
+                },
+                {
+                    "types": [
+                        "admin_level_3"
+                    ],
+                    "name": "Quận 1"
+                },
+                {
+                    "types": [
+                        "admin_level_2"
+                    ],
+                    "name": "Thành phố Hồ Chí Minh"
+                },
+                {
+                    "types": [
+                        "admin_level_1"
+                    ],
+                    "name": "Việt Nam"
+                }
+            ],
+            "photos": null,
+            "startDate": null,
+            "endDate": null,
+            "geometry": null,
+            "phoneNumber": null,
+            "website": null,
+            "businessHours": null
+        }
+    },
+    {
+        "code": "ok",
+        "result": {
+            "id": "628ce25f3cd9ef318cd84e0c",
+            "location": {
+                "lng": 106.6870874,
+                "lat": 10.755186
+            },
+            "address": "612 Đ. Võ Văn Kiệt, Cầu Kho, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+            "name": "cho thuê xe tự lái quận 1",
+            "objectId": null,
+            "description": null,
+            "types": [
+                "car",
+                "car_rental",
+                "establishment",
+                "point",
+                "other"
+            ],
+            "tags": null,
+            "addressComponents": [
+                {
+                    "types": [
+                        "housenumber"
+                    ],
+                    "name": "612"
+                },
+                {
+                    "types": [
+                        "street"
+                    ],
+                    "name": "Võ Văn Kiệt"
+                },
+                {
+                    "types": [
+                        "admin_level_4"
+                    ],
+                    "name": "Phường Cầu Kho"
+                },
+                {
+                    "types": [
+                        "admin_level_3"
+                    ],
+                    "name": "Quận 1"
+                },
+                {
+                    "types": [
+                        "admin_level_2"
+                    ],
+                    "name": "Thành phố Hồ Chí Minh"
+                },
+                {
+                    "types": [
+                        "admin_level_1"
+                    ],
+                    "name": "Việt Nam"
+                }
+            ],
+            "photos": null,
+            "startDate": null,
+            "endDate": null,
+            "geometry": null,
+            "phoneNumber": null,
+            "website": null,
+            "businessHours": null
+        }
+    },
+    {
+        "code": "ok",
+        "result": {
+            "id": "6099ffd634025a4d53da523b",
+            "location": {
+                "lng": 106.6860062,
+                "lat": 10.7552383
+            },
+            "address": "24 Đ. Nguyễn Văn Cừ, Phường 1, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
+            "name": "Công Ty Tnhh Tường Huệ Giang",
+            "objectId": null,
+            "description": null,
+            "types": [
+                "point",
+                "other"
+            ],
+            "tags": null,
+            "addressComponents": [
+                {
+                    "types": [
+                        "housenumber"
+                    ],
+                    "name": "24"
+                },
+                {
+                    "types": [
+                        "street"
+                    ],
+                    "name": "Nguyễn Văn Cừ"
+                },
+                {
+                    "types": [
+                        "admin_level_4"
+                    ],
+                    "name": "Phường 1"
+                },
+                {
+                    "types": [
+                        "admin_level_3"
+                    ],
+                    "name": "Quận 5"
+                },
+                {
+                    "types": [
+                        "admin_level_2"
+                    ],
+                    "name": "Thành phố Hồ Chí Minh"
+                },
+                {
+                    "types": [
+                        "admin_level_1"
+                    ],
+                    "name": "Việt Nam"
+                }
+            ],
+            "photos": null,
+            "startDate": null,
+            "endDate": null,
+            "geometry": null,
+            "phoneNumber": null,
+            "website": null,
+            "businessHours": null
+        }
+    },
+    {
+        "code": "ok",
+        "result": {
+            "id": "628ce25f3cd9ef318cd84e0c",
+            "location": {
+                "lng": 106.6870874,
+                "lat": 10.755186
+            },
+            "address": "612 Đ. Võ Văn Kiệt, Cầu Kho, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+            "name": "cho thuê xe tự lái quận 1",
+            "objectId": null,
+            "description": null,
+            "types": [
+                "car",
+                "car_rental",
+                "establishment",
+                "point",
+                "other"
+            ],
+            "tags": null,
+            "addressComponents": [
+                {
+                    "types": [
+                        "housenumber"
+                    ],
+                    "name": "612"
+                },
+                {
+                    "types": [
+                        "street"
+                    ],
+                    "name": "Võ Văn Kiệt"
+                },
+                {
+                    "types": [
+                        "admin_level_4"
+                    ],
+                    "name": "Phường Cầu Kho"
+                },
+                {
+                    "types": [
+                        "admin_level_3"
+                    ],
+                    "name": "Quận 1"
+                },
+                {
+                    "types": [
+                        "admin_level_2"
+                    ],
+                    "name": "Thành phố Hồ Chí Minh"
+                },
+                {
+                    "types": [
+                        "admin_level_1"
+                    ],
+                    "name": "Việt Nam"
+                }
+            ],
+            "photos": null,
+            "startDate": null,
+            "endDate": null,
+            "geometry": null,
+            "phoneNumber": null,
+            "website": null,
+            "businessHours": null
+        }
+    },
+    {
+        "code": "ok",
+        "result": {
+            "id": "60dd3b6ef81cb14bc8e7f253",
+            "location": {
+                "lng": 106.6863627,
+                "lat": 10.7552752
+            },
+            "address": "6 Đ. Nguyễn Văn Cừ, Cầu Kho, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+            "name": "6 Đ. Nguyễn Văn Cừ",
+            "objectId": null,
+            "description": null,
+            "types": [
+                "address",
+                "street"
+            ],
+            "tags": null,
+            "addressComponents": [
+                {
+                    "types": [
+                        "housenumber"
+                    ],
+                    "name": "6"
+                },
+                {
+                    "types": [
+                        "street"
+                    ],
+                    "name": "Nguyễn Văn Cừ"
+                },
+                {
+                    "types": [
+                        "admin_level_4"
+                    ],
+                    "name": "Phường Cầu Kho"
+                },
+                {
+                    "types": [
+                        "admin_level_3"
+                    ],
+                    "name": "Quận 1"
+                },
+                {
+                    "types": [
+                        "admin_level_2"
+                    ],
+                    "name": "Thành phố Hồ Chí Minh"
+                },
+                {
+                    "types": [
+                        "admin_level_1"
+                    ],
+                    "name": "Việt Nam"
+                }
+            ],
+            "photos": null,
+            "startDate": null,
+            "endDate": null,
+            "geometry": null,
+            "phoneNumber": null,
+            "website": null,
+            "businessHours": null
+        }
+    },
+    {
+        "code": "ok",
+        "result": {
+            "id": "628cd2543cd9ef318cd12a9c",
+            "location": {
+                "lng": 106.6862785,
+                "lat": 10.75519
+            },
+            "address": "4 Đ. Nguyễn Văn Cừ, Cầu Kho, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+            "name": "4 Đ. Nguyễn Văn Cừ",
+            "objectId": null,
+            "description": null,
+            "types": [
+                "address",
+                "street"
+            ],
+            "tags": null,
+            "addressComponents": [
+                {
+                    "types": [
+                        "housenumber"
+                    ],
+                    "name": "4"
+                },
+                {
+                    "types": [
+                        "street"
+                    ],
+                    "name": "Nguyễn Văn Cừ"
+                },
+                {
+                    "types": [
+                        "admin_level_4"
+                    ],
+                    "name": "Phường Cầu Kho"
+                },
+                {
+                    "types": [
+                        "admin_level_3"
+                    ],
+                    "name": "Quận 1"
+                },
+                {
+                    "types": [
+                        "admin_level_2"
+                    ],
+                    "name": "Thành phố Hồ Chí Minh"
+                },
+                {
+                    "types": [
+                        "admin_level_1"
+                    ],
+                    "name": "Việt Nam"
+                }
+            ],
+            "photos": null,
+            "startDate": null,
+            "endDate": null,
+            "geometry": null,
+            "phoneNumber": null,
+            "website": null,
+            "businessHours": null
+        }
+    },
+    {
+        "code": "ok",
+        "result": {
+            "id": "605a2c330618007e00f0c70e",
+            "location": {
+                "lng": 106.68664534752608,
+                "lat": 10.75518692848773
+            },
+            "address": "383B Võ Văn Kiệt, Phường Cầu Kho, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+            "name": "383B Võ Văn Kiệt",
+            "objectId": null,
+            "description": null,
+            "types": [
+                "point",
+                "other"
+            ],
+            "tags": null,
+            "addressComponents": [
+                {
+                    "types": [
+                        "housenumber"
+                    ],
+                    "name": "383B"
+                },
+                {
+                    "types": [
+                        "street"
+                    ],
+                    "name": "Võ Văn Kiệt"
+                },
+                {
+                    "types": [
+                        "admin_level_4"
+                    ],
+                    "name": "Phường Cầu Kho"
+                },
+                {
+                    "types": [
+                        "admin_level_3"
+                    ],
+                    "name": "Quận 1"
+                },
+                {
+                    "types": [
+                        "admin_level_2"
+                    ],
+                    "name": "Thành phố Hồ Chí Minh"
+                },
+                {
+                    "types": [
+                        "admin_level_1"
+                    ],
+                    "name": "Việt Nam"
+                }
+            ],
+            "photos": null,
+            "startDate": null,
+            "endDate": null,
+            "geometry": null,
+            "phoneNumber": null,
+            "website": null,
+            "businessHours": null
+        }
+    },
+    {
+        "code": "ok",
+        "result": {
+            "id": "6493ec48304c490398a8404a",
+            "location": {
+                "lng": 106.6869511,
+                "lat": 10.7551661
+            },
+            "address": "Đ. Võ Văn Kiệt, Street, Quận 1, Thành phố Hồ Chí Minh 71015, Việt Nam",
+            "name": "Shine Tech Co., Ltd",
+            "objectId": null,
+            "description": null,
+            "types": [
+                "establishment",
+                "other",
+                "point"
+            ],
+            "tags": null,
+            "addressComponents": [
+                {
+                    "types": [
+                        "extra"
+                    ],
+                    "name": "Street"
+                },
+                {
+                    "types": [
+                        "street"
+                    ],
+                    "name": "Võ Văn Kiệt"
+                },
+                {
+                    "types": [
+                        "admin_level_4"
+                    ],
+                    "name": "Phường Cầu Kho"
+                },
+                {
+                    "types": [
+                        "admin_level_3"
+                    ],
+                    "name": "Quận 1"
+                },
+                {
+                    "types": [
+                        "admin_level_2"
+                    ],
+                    "name": "Thành phố Hồ Chí Minh"
+                },
+                {
+                    "types": [
+                        "admin_level_1"
+                    ],
+                    "name": "Việt Nam"
+                }
+            ],
+            "photos": null,
+            "startDate": null,
+            "endDate": null,
+            "geometry": null,
+            "phoneNumber": null,
+            "website": null,
+            "businessHours": null
+        }
+    },
+    {
+        "code": "ok",
+        "result": {
+            "id": "6061edc2e50c925a74c69880",
+            "location": {
+                "lng": 106.6866616,
+                "lat": 10.755178599999999
+            },
+            "address": "383B Hẻm Bến Chương Dương, Cầu Kho, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+            "name": "383B Hẻm Bến Chương Dương",
+            "objectId": null,
+            "description": null,
+            "types": [
+                "point",
+                "other"
+            ],
+            "tags": null,
+            "addressComponents": [
+                {
+                    "types": [
+                        "housenumber"
+                    ],
+                    "name": "383B"
+                },
+                {
+                    "types": [
+                        "street"
+                    ],
+                    "name": "Bến Chương Dương"
+                },
+                {
+                    "types": [
+                        "admin_level_4"
+                    ],
+                    "name": "Phường Cầu Kho"
+                },
+                {
+                    "types": [
+                        "admin_level_3"
+                    ],
+                    "name": "Quận 1"
+                },
+                {
+                    "types": [
+                        "admin_level_2"
+                    ],
+                    "name": "Thành phố Hồ Chí Minh"
+                },
+                {
+                    "types": [
+                        "admin_level_1"
+                    ],
+                    "name": "Việt Nam"
+                }
+            ],
+            "photos": null,
+            "startDate": null,
+            "endDate": null,
+            "geometry": null,
+            "phoneNumber": null,
+            "website": null,
+            "businessHours": null
+        }
+    },
+    {
+        "code": "ok",
+        "result": {
+            "id": "6493ec48304c490398a8404a",
+            "location": {
+                "lng": 106.6869511,
+                "lat": 10.7551661
+            },
+            "address": "Đ. Võ Văn Kiệt, Street, Quận 1, Thành phố Hồ Chí Minh 71015, Việt Nam",
+            "name": "Shine Tech Co., Ltd",
+            "objectId": null,
+            "description": null,
+            "types": [
+                "establishment",
+                "other",
+                "point"
+            ],
+            "tags": null,
+            "addressComponents": [
+                {
+                    "types": [
+                        "extra"
+                    ],
+                    "name": "Street"
+                },
+                {
+                    "types": [
+                        "street"
+                    ],
+                    "name": "Võ Văn Kiệt"
+                },
+                {
+                    "types": [
+                        "admin_level_4"
+                    ],
+                    "name": "Phường Cầu Kho"
+                },
+                {
+                    "types": [
+                        "admin_level_3"
+                    ],
+                    "name": "Quận 1"
+                },
+                {
+                    "types": [
+                        "admin_level_2"
+                    ],
+                    "name": "Thành phố Hồ Chí Minh"
+                },
+                {
+                    "types": [
+                        "admin_level_1"
+                    ],
+                    "name": "Việt Nam"
+                }
+            ],
+            "photos": null,
+            "startDate": null,
+            "endDate": null,
+            "geometry": null,
+            "phoneNumber": null,
+            "website": null,
+            "businessHours": null
+        }
+    }
+]
